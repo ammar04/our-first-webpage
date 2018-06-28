@@ -22,3 +22,7 @@ em{
 strong{
   font-style: italic;
 }
+img{
+  width: 50%;
+  height: auto;
+}
